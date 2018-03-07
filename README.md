@@ -17,14 +17,14 @@ Copyright 2018, The Chinese University of Hong Kong.
 
 This folder contains the following files:
 
-SSMM_GFW.m					: the sparse support matrix machine (Algorithm 1 in paper)
+	SSMM_GFW.m               : the sparse support matrix machine (Algorithm 1 in paper)
 
-smoothinge_gradient.m 		: step 3 in Algorithm 1 in paper
+	smoothinge_gradient.m    : step 3 in Algorithm 1 in paper
 
-shrinkage.m					: proximal operator for low rank
+	shrinkage.m              : proximal operator for low rank
 
-demo_binary_caltech_lbp.m 	: a simple demo for binary classification 
+	demo_binary_caltech_lbp.m: a simple demo for binary classification 
 
-CaltechFace_LBP.mat  		: the data in mat format for demo 
+	CaltechFace_LBP.mat      : the data in mat format for demo 
 
 
